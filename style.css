@@ -79,3 +79,6 @@ h3{
     border-image: linear-gradient(#f320d0,#d34a0a);
     border-image-slice: 1;
 }
+footer{
+    text-align: center;
+}
