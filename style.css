@@ -6,6 +6,9 @@ h1{
     font-weight: 700;
     font-size: 50px;
 }
+h2{
+    font-size: 40px;
+}
 h3{
     font-weight: 700;
     font-size: 30px;
@@ -59,4 +62,20 @@ h3{
 }
 .bg-img-color{
     background-color: rgb(235, 235, 235);
+}
+.box{
+    background: rgb(238, 238, 238);
+    padding: 30px;
+    box-shadow: 10px 10px 9px rgb(65, 63, 63);
+    border-radius: 10px;
+}
+.full-stack{
+    border-left: 10px solid;
+    border-image: linear-gradient(#0066b2,#5F9EA0);
+    border-image-slice: 1;
+}
+.baby-web{
+    border-left: 10px solid;
+    border-image: linear-gradient(#f320d0,#d34a0a);
+    border-image-slice: 1;
 }
